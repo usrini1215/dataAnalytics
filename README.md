@@ -1,3 +1,3 @@
 # dataAnalytics
-All Data Analytics Work
+Data Analytics Projects
 This is a copy of all of Usha Chari's work on Data Analytics
